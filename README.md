@@ -52,7 +52,7 @@ Features
     - DVI-D output
     - video data processor (when sample/pixel > 1)
 
-FPO (demo) consume about 2000 LUTs (dedicated RAM blocks) slices/cells.
+FPO (demo) consume about 2000 LUTs (dedicated RAM blocks).
 (Acquisition RAM is dedicated)
 
 Bugs/Limitations/Dubious features
